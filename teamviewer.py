@@ -1,11 +1,10 @@
 # Created by Alan Kelly (alan.kelly@levelblue.com)
-# Last updated 16122024
+# Last updated 20032025
 
 import requests
 import json
 import os
 import datetime
-import dateutil.parser as dp
 import socket
 
 CONFIG_FILE = 'teamviewer-config.json'
